@@ -388,6 +388,7 @@ void DeCode_HuffManFile(string inputFile, string outputFile)
 }
 void main()
 {
+	cout << "hihihaha" << endl;
 	string FileName = "nguoidep.txt";
 	vector<HuffMan_number> number;
 	input_array(number, FileName);

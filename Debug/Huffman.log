@@ -1,0 +1,14 @@
+﻿  Source.cpp
+E:\Project\Huffman\Source.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Huffman\Source.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Huffman\Source.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Huffman\Source.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Huffman\Source.cpp(117,21): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Huffman\Source.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Huffman\Source.cpp(206,20): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Huffman\Source.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Huffman\Source.cpp(232,20): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Huffman\Source.cpp(303,20): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Huffman\Source.cpp(315,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+E:\Project\Huffman\Source.cpp(390,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Huffman.vcxproj -> E:\Project\Huffman\Debug\Huffman.exe
